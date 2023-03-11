@@ -1,6 +1,5 @@
 # K8-s
 
-
 # Flannel network
 
 nano fannel.yml
@@ -19,4 +18,5 @@ FLANNEL_NETWORK=192.168.0.0/16
 FLANNEL_SUBNET=192.168.0.1/24
 FLANNEL_MTU=8951
 FLANNEL_IPMASQ=true
+
 
